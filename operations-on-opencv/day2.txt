@@ -1,0 +1,5 @@
+-Readind feed from cam
+
+-Thresh hold image
+
+-Colorimg to orther forms
