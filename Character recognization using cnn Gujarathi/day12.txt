@@ -1,0 +1,4 @@
+Character recognization using cnn Gujarathi
+
+
+https://colab.research.google.com/drive/1w1ooq93kRyR5qFdJapxdrMADRluma4v2#scrollTo=BjB_D7ySJ7ZE
